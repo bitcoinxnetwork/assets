@@ -1,0 +1,25 @@
+
+  "name": "BitcoinX Network",
+  "type": "BEP20",
+  "symbol": "BTCX",
+  "decimals": 18,
+  "website": "https://xthread.net/",
+  "description": "Bitcoinx Network ($BTCX) is the main Cryptocurrency & Utility Tokens of Xthread SocialFi.",
+  "explorer": "https://bscscan.com/token/0xb0A93fAcf25b70Be4Dc7060586aff28e4313ba48",
+  "id": "0xb0A93fAcf25b70Be4Dc7060586aff28e4313ba48",
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/bitcoinxnetwork"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/freebitcoinxchat"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/bitcoinx_to"
+    },
+  ]
+}
